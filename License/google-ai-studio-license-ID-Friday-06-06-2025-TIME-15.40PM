@@ -1,0 +1,28 @@
+Google AI Studio, bersama dengan Gemini API dan layanan AI generatif Google lainnya, secara umum dapat digunakan untuk berbagai tujuan, termasuk penggunaan komersial. Namun, ada beberapa hal penting yang perlu diperhatikan terkait lisensi, batasan, dan kebijakan penggunaan:
+
+1. Persyaratan Layanan Umum Google:
+Anda harus menerima Persyaratan Layanan Google secara umum, yang mencakup topik terkait AI. Google juga memiliki "Generative AI Additional Terms of Service" yang mungkin berlaku, terutama jika Anda adalah mitra bisnis dengan perjanjian yang ditandatangani.
+
+2. Kebijakan Penggunaan Terlarang (Prohibited Use Policy):
+Sangat penting untuk mematuhi Kebijakan Penggunaan Terlarang untuk AI Generatif. Kebijakan ini melarang penggunaan Google AI Studio dan layanan AI generatif lainnya untuk aktivitas berbahaya, ilegal, seksual eksplisit, kekerasan, kebencian, atau merugikan. Contohnya termasuk:
+ * Konten yang berkaitan dengan pelecehan atau eksploitasi anak.
+ * Memfasilitasi ekstremisme kekerasan atau terorisme.
+ * Memfasilitasi gambar intim non-konsensual.
+ * Memfasilitasi aktivitas ilegal (misalnya, instruksi untuk mensintesis zat ilegal).
+ * Melanggar hak orang lain (misalnya, privasi atau hak kekayaan intelektual).
+ * Melacak atau memantau orang tanpa persetujuan mereka.
+ * Membuat keputusan otomatis yang memiliki dampak merugikan material pada hak individu tanpa pengawasan manusia di domain berisiko tinggi (misalnya, pekerjaan, perawatan kesehatan, keuangan).
+ * Spam, phishing, atau malware.
+ * Menghindari perlindungan penyalahgunaan atau filter keamanan.
+ 
+3. Batas Penggunaan (Quota and Limits):
+Meskipun Google AI Studio gratis untuk memulai, ada batasan penggunaan (quota) yang diterapkan pada Gemini API, seperti jumlah permintaan per menit atau per hari, dan jumlah token per menit. Batasan ini dapat bervariasi tergantung pada model yang digunakan. Untuk penggunaan yang lebih intensif atau skala produksi, Anda mungkin perlu mempertimbangkan layanan Google Cloud seperti Vertex AI, yang menawarkan kontrol lebih besar atas sumber daya dan kuota.
+
+4. Penggunaan Data dan Privasi:
+Google menyimpan data seperti perintah, informasi kontekstual, dan output yang dihasilkan oleh Gemini API selama periode tertentu (misalnya, 55 hari) untuk membantu memantau penyalahgunaan. Penting untuk tidak mengirimkan masukan atau data yang berisi informasi sensitif, rahasia, atau pribadi.
+
+5. Penggunaan Komersial:
+Google AI Studio dirancang untuk membantu Anda dengan cepat mencoba model dan bereksperimen dengan berbagai perintah. Setelah Anda siap membangun aplikasi, Anda dapat menggunakan Gemini API untuk mengintegrasikan model AI ke dalam aplikasi Anda. Ini memungkinkan Anda untuk mengembangkan dan menerapkan solusi bertenaga AI untuk berbagai tujuan, termasuk komersial, selama Anda mematuhi semua persyaratan dan kebijakan Google
+
+6. Model dan Fitur Tambahan:
+Google terus mengembangkan model dan fitur baru. Beberapa fitur canggih atau batas penggunaan yang lebih tinggi mungkin tersedia melalui langganan berbayar seperti "Google AI Pro" atau "Google AI Ultra," yang menawarkan akses lebih luas ke model, kredit AI, dan penyimpanan.
